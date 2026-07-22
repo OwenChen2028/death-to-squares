@@ -1,3 +1,3 @@
 A physics-based puzzle platformer: https://mrmacropod.itch.io/death-to-squares
 
-I don't remember anything about the code quality but some of the puzzles were interesting to design.
+If I recall correctly, the code is unremarkable but some of the puzzles are quite interesting.
